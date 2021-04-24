@@ -1,4 +1,4 @@
-### UK's Covid-19 Story
+### UK Covid-19 Story
 
 UK is among one of the countries worst effected by covid-19. In September 2020, UK opened up schools due to which infections spreaded heavily all across. 
 ![govpolicyUK](https://user-images.githubusercontent.com/64389242/115950998-0dea9000-a4a4-11eb-827d-92ed6a323f96.PNG)
