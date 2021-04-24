@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### UK's Covid-19 Story
 
-You can use the [editor on GitHub](https://github.com/VaishnaveeSharma/UK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+UK is among one of the countries worst effected by covid-19. In September 2020, UK opened up schools due to which infections spreaded heavily all across. 
+![govpolicyUK](https://user-images.githubusercontent.com/64389242/115950998-0dea9000-a4a4-11eb-827d-92ed6a323f96.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Because of which cases and deaths incresed tremendously in UK. See the chart below.
+![ukPM](https://user-images.githubusercontent.com/64389242/115950982-f8756600-a4a3-11eb-9244-49da80f01b35.PNG)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VaishnaveeSharma/UK/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In December 2020, new covid variant rose the number of cases and deaths in UK. This new variant of the virus is 70% more capable of transmission compared to the old one. Therefore it has led to more cases and deaths in short period of time. Please refer [this](https://www.nationalgeographic.com/science/article/why-new-coronavirus-variants-suddenly-arose-in-uk-and-south-africa) article for more details.
